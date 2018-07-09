@@ -1,0 +1,22 @@
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.exe.config
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.exe
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.pdb
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.xml
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.Form1.resources
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.Resources.resources
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.vbproj.GenerateResource.Cache
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.exe
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.xml
+E:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.exe.config
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\bin\Release\BasicBatchCrop.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.Form1.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.Resources.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicBatchCrop\BasicBatchCrop\obj\Release\BasicBatchCrop.vbproj.GenerateResource.Cache
